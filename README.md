@@ -32,12 +32,28 @@ This project shows:
 
 4. Paste it into ChatGPT and ask for:
 
-> “Explain these vulnerabilities for a beginner and suggest how to fix them.”
+> You are a cybersecurity advisor. Explain this scan output for a beginner and suggest how to fix the issues.
 
 🤖 How AI Helps
 
 In this project, AI (ChatGPT) turns technical scan data into easy-to-understand explanations and recommended fixes.
 This makes cybersecurity skills accessible even to beginners with no deep background.
+
+## 🎥 Video Submission
+
+📎 Watch the full video here: [Click to Watch](https://drive.google.com/file/d/19aDoyezgivGKQLwNT_KJNgTDnk2SgmMC/view?usp=drivesdk)
+
+🙌 Acknowledgements
+
+Special thanks to:
+
+3MTT Nigeria
+
+Darey.io
+
+Musab Mubarak (Instructor)
+
+My State Community Manager
 
 📢 Fellow Info
 
